@@ -1,4 +1,9 @@
 #!/bin/bash
+# simle script to run problems
+##./run [Problem Number]
+#
+#example:
+#./run 001
 
 # compiles the problem
 g++ -o "$1" "src/problem_$1.c"
