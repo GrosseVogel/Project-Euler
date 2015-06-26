@@ -1,0 +1,8 @@
+#!/bin/bash
+
+# compiles the problem
+g++ -o "$1" "src/problem_$1.c"
+# runs the problem
+./$1
+# remove the executable
+rm $1
