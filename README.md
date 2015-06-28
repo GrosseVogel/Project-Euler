@@ -1,6 +1,20 @@
-Project-Euler
-=============
+<snippet>
+  <content><![CDATA[
+# ${1:Project Name}
 
-Collection of Project Euler Problems
+TODO: Write a project description
 
-Problem 1: Solved
+## Installation
+
+TODO: Describe the installation process
+
+## Running
+
+TODO: Describe the running process
+
+## History
+
+TODO: Write history
+></content>
+  <tabTrigger>readme</tabTrigger>
+</snippet>
