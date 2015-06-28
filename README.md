@@ -1,4 +1,4 @@
-# ${Project-Euler}
+# Project-Euler
 
 Collection of solutions to Project Euler problems. 
 
