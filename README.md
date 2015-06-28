@@ -1,20 +1,17 @@
-<snippet>
-  <content><![CDATA[
-# ${1:Project Name}
+# ${Project-Euler}
 
-TODO: Write a project description
-
-## Installation
-
-TODO: Describe the installation process
+Collection of solutions to Project Euler problems. 
 
 ## Running
 
-TODO: Describe the running process
+Each problem should be easily ran by simple run script './run <problem number>'. For example:
+
+	$ ./run 001
+
+## TODO
+	* Complete more problems
+	* Try diffrent languages
 
 ## History
 
 TODO: Write history
-></content>
-  <tabTrigger>readme</tabTrigger>
-</snippet>
